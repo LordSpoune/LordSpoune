@@ -1,4 +1,4 @@
-- Hi, I'm LordSpoube
+- Hi, I'm LordSpoune
 - I’m interested in programming (?)
 - I’m currently learning Python and trying to start learning Java
 - How to reach me : no pro email yet
